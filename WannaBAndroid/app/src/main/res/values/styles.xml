@@ -1,0 +1,33 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">#FFFFFF</item>
+    </style>
+
+    <style name="BaseCardView">
+        <item name="android:background">#FFFFFF</item>
+        <item name="cardCornerRadius">10dp</item>
+        <item name="cardElevation">5dp</item>
+    </style>
+
+    <style name="BaseTab">
+        <item name="android:fontFamily">@font/jejugodic</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="BaseTabLayout">
+        <item name="tabMode">scrollable</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="tabTextAppearance">@style/BaseTab</item>
+        <item name="tabIndicatorColor">#000000</item>
+    </style>
+    
+    <style name="BaseToolbar">
+        <item name="android:background">@color/color2</item>
+        <item name="titleTextColor">#FFFFFF</item>
+    </style>
+</resources>

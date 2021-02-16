@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/color1</color>
+    <color name="colorPrimaryDark">@color/color2</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="logoBackground">#000000</color>
+
+    <color name="color1">#696673</color>
+    <color name="color2">#A6A5A4</color>
+    <color name="color3">#8C8379</color>
+    <color name="color4">#26170A</color>
+    <color name="color5">#402515</color>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WannaB</string>
+    <string name="advertisement_image">Advertisement Image</string>
+    <string name="select_image">Select Image</string>
+
+    <string name="bookmark">★</string>
+    <string name="office">회사</string>
+    <string name="freshman">신입생</string>
+    <string name="guest">하객</string>
+    <string name="date">데이트</string>
+    <string name="profile">증명사진</string>
+    <string name="ggu">꾸안꾸</string>
+    <string name="make_up_image">Make Up Image</string>
+    <string name="cosmetic_information">Cosmetic Information</string>
+    <string name="practice">Practice</string>
+</resources>
